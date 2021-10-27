@@ -1,0 +1,2 @@
+1. Se cere un număr impar n>4. Să se deseneze cifra „8”, scris ca un pătrat cu o linie orizontală în mijloc, în așa fel încât pe verticală și pe orizontală să fie câte n steluțe. În program nu vor fi admise duplicări de cod.
+2. Să se scrie o funcție care returnează maximul dintre 3 valori de tip intreg, primite ca parametri. Funcția nu va folosi nicio variabilă, cu excepția parametrilor săi. Se va testa funcția cu valori introduse de la tastatură. Citirea de la tastatura se va face in functia main
