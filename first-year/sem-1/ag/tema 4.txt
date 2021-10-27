@@ -1,0 +1,7 @@
+Fie M = {v1 = (1, 2, 3), v2 = (1, 0, 1)} ⊂ R3.
+a) Verificat¸i c˘a vectorii v1 ¸si v2 sunt liniar independent¸i ˆın R3.
+b) Completat¸i mult¸imea M la o baz˘a B = {v1, v2, v3} a lui R3.
+c) Aflat¸i coordonatele vectorului v = (0, 1, 1) ˆın aceast˘a baz˘a.
+d) Ar˘atat¸i c˘a B0 = {v1 + v2, v1 − v2, 2v3} este baz˘a ˆın R3¸si scriet¸i matricele de
+trecere dintre baza B ¸si baza B0.
+e) Aflat¸i coordonatele lui v ˆın baza B0.
